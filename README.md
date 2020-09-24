@@ -5,4 +5,6 @@ Includes original images, repeating textures, height maps and normal maps.
 
 Textures are 2048x2048 72DPI Repeating. 
 
-![In game example (Unity)](“https://github.com/N-Hulley/GameAssets/blob/master/example.png”)
+Contributors are welcome and will be credited!
+
+![In game example (Unity)]("https://github.com/N-Hulley/GameAssets/blob/master/example.png?raw=true")
